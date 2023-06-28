@@ -1,0 +1,4 @@
+[submodule "models/ur5e_description"]
+	path = models/ur5e_description
+	url = https://github.com/raghavauppuluri13/ur5e_description
+	branch = drake

@@ -1,0 +1,3 @@
+numpy==1.17.4
+pathlib
+pydrake==0.2.1
